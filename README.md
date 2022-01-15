@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Prince
-#### Android Developer
+#### A passionate Native Android 📱 developer from India
 ![Android Developer](https://pbs.twimg.com/profile_banners/1482221142522068993/1642224116/1080x360)
 
 I'm prince from India ,and I do android development.
