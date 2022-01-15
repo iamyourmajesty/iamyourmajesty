@@ -7,6 +7,7 @@ I really enjoy learning languages and new technology .
 
 Skills: C / C++ / Kotlin
 
+<img src="https://github.com/iamyourmajesty/iamyourmajesty/blob/main/Hi%20there!.gif"/>
 - 🔭 I’m currently working on this page. 
 
 
