@@ -1,13 +1,13 @@
 ### Hi there 👋, my name is Prince
 #### A passionate Native Android 📱 developer from India
-![Android Developer](https://pbs.twimg.com/profile_banners/1482221142522068993/1642224116/1080x360)
+![Android Developer](https://github.com/iamyourmajesty/iamyourmajesty/blob/main/Hi%20there!.gif)
 
 I'm prince from India ,and I do android development.
 I really enjoy learning languages and new technology .
 
 Skills: C / C++ / Kotlin
 
-<img src="https://github.com/iamyourmajesty/iamyourmajesty/blob/main/Hi%20there!.gif"/>
+
 - 🔭 I’m currently working on this page. 
 
 
