@@ -8,8 +8,8 @@ want to excel in IT Sector.
 
 Skills: C / C++ / Monodb / Express / React / Node js
 
-Live Projects : 
-#### School Result publishing Web App       [View Projects](https://expensive-capris-ant.cyclic.app/)
+### Live Projects : 
+#### 1. School Result publishing Web App       [View Projects](https://expensive-capris-ant.cyclic.app/)
 1. Teacher/admin can do all crud operations through admin panel.
 2. Students can check there result using registration number and date of birth.
 3. Students marks are being stored in database.
