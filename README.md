@@ -7,8 +7,7 @@ I love to develop Single Page Application and
 want to excel in IT Sector.
 
 Skills: C / C++ / Monodb / Express / React / Node js
-
-<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@48,400,0,0" />
+[<img src='https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@48,400,0,0' alt='github' height='40'>]() 
 
 ### Live Projects : 
 #### 1. School Result publishing Web App       [View Projects](https://expensive-capris-ant.cyclic.app/)
