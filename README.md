@@ -32,4 +32,4 @@ want to excel in IT Sector.
  
    [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/iamyourmajesty)              [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/prince-pandey-)          [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/i_am_your_majesty_/)  
 
-### Resume   <code><img height="30" src="https://res.cloudinary.com/du1n94yvw/image/upload/v1672334418/images/35211362_xgv8rs.jpg"></code>
+### Resume   <code><img height="60" src="https://res.cloudinary.com/du1n94yvw/image/upload/v1672334418/images/35211362_xgv8rs.jpg"></code>  [View](https://res.cloudinary.com/du1n94yvw/image/upload/v1671801109/images/1671801101980.pdf)
