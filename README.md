@@ -34,4 +34,4 @@ want to excel in IT Sector.
 
 ### Resume   
 <code><img height="160" src="https://res.cloudinary.com/du1n94yvw/image/upload/v1672334418/images/35211362_xgv8rs.jpg"></code>  
- ## @emsp; @emsp;   [View](https://res.cloudinary.com/du1n94yvw/image/upload/v1671801109/images/1671801101980.pdf)
+ ## &nbsp;&nbsp;&nbsp;   [View](https://res.cloudinary.com/du1n94yvw/image/upload/v1671801109/images/1671801101980.pdf)
