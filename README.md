@@ -1,12 +1,22 @@
 ### Hi there 👋, my name is Prince
-#### A passionate Native Android 📱 developer from India
+#### Aspring Web developer  📱 developer from India
 ![Android Developer](https://github.com/iamyourmajesty/iamyourmajesty/blob/main/Hi%20there!.gif)
 
-I'm prince from India ,and I do android development.
-I really enjoy learning languages and new technology .
+I'm currently pursuing B.Tech from Muzaffarpur Institute of Technology.
+I love to develop Single Page Application and
+want to excel in IT Sector.
 
-Skills: C / C++ / Kotlin
+Skills: C / C++ / Monodb / Express / React / Node js
 
+Live Projects : 
+#### School Result publishing Web App
+1. Teacher/admin can do all crud operations through admin panel.
+2. Students can check there result using registration number and date of birth.
+3. Students marks are being stored in database.
+4. Example to view marksheet :
+ reg no. = 20104107025
+ d.o.b = 02.05.2002
+##### [  Show  ]('https://expensive-capris-ant.cyclic.app/')
 
 - 🔭 I’m currently working on this page. 
 
