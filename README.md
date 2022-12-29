@@ -2,8 +2,8 @@
 #### Aspring Web developer  📱 developer from India
 ![Android Developer](https://github.com/iamyourmajesty/iamyourmajesty/blob/main/Hi%20there!.gif)
 
-I'm currently pursuing B.Tech from Muzaffarpur Institute of Technology.
-I love to develop Single Page Application and
+I'm currently pursuing B.Tech from Muzaffarpur Institute of Technology.<br />
+I love to develop Single Page Application and <br />
 want to excel in IT Sector.
 
 **Languages and Tools:**  
